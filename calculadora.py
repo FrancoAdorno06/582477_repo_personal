@@ -9,3 +9,13 @@ suma = numero1 + numero2
 
 # Mostrar el resultado 
 print(f"El resultado de la suma es: {suma}") 
+
+# resta de numeros 
+resta = numero1 - numero2
+print(f"el resultado de la resta es: {resta}")
+
+# Multiplcar los números  
+producto = numero1 * numero2  
+
+# Mostrar el resultado  
+print(f"El resultado de la suma es: {suma} y el producto {producto}") 
