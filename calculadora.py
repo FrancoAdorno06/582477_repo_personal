@@ -19,3 +19,7 @@ producto = numero1 * numero2
 
 # Mostrar el resultado  
 print(f"El resultado de la suma es: {suma} y el producto {producto}") 
+
+# dividir los numeros
+division = numero1 / numero2
+print(f"el resultado de la division es: {division}")
